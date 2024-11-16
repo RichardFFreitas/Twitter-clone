@@ -1,1 +1,0 @@
-from .follows_serializer import FollowSerializer

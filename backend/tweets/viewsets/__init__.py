@@ -1,1 +1,0 @@
-from .tweets_viewset import TweetViewSet

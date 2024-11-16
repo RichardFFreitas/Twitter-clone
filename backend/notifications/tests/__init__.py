@@ -1,1 +1,0 @@
-from .notifications_test import NotificationModelTest

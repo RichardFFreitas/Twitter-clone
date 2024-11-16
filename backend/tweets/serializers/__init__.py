@@ -1,1 +1,0 @@
-from .tweets_serializers import TweetSerializer

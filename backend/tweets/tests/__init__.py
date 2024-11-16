@@ -1,1 +1,0 @@
-from .tweets_test import TweetModelTest
